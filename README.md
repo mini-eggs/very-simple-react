@@ -3,18 +3,26 @@ Showing how to extend components/how easy it is
 
 ## run in dev
 
-1) yarn install  
-2) composer install  
-3) open two terminals and cd to this location  
-4) in terminal one run `gulp watch`  
-5) in terminal two run 'npm run server'  
-6) navigate to http://localhost:3000/  
+1) while in terminal run `git clone https://github.com/mini-eggs/very-simple-react.git` in your desired folder  
+2) run `cd very-simple-react`  
+3) yarn install  
+4) composer install  
+5) open two terminals and cd to this location  
+6) in terminal one run `gulp watch`  
+7) in terminal two run `npm run server`  
+8) navigate to `http://localhost:3000/`  
 
 ## run for production
 
 1) skip because you've already done this  
 2) skip because you've already done this  
-3) open two terminals and cd to this location  
-4) in terminal one run `gulp`  
-5) in terminal two run 'npm run server'  
-6) navigate to http://localhost:3000/  
+3) skip because you've already done this  
+4) skip because you've already done this  
+5) open two terminals and cd to this location  
+6) in terminal one run `gulp`  
+7) in terminal two run `npm run server`  
+8) navigate to `http://localhost:3000/`  
+
+## notes
+
+1) using mamp you won't have to use `npm run server`  
